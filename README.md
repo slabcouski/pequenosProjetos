@@ -1,2 +1,2 @@
 # pequenosProjetos
-Pequenos projetos relacionados aos estudos
+Projetos desenvolvidos durantes os estudos
